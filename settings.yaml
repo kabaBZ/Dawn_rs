@@ -1,0 +1,13 @@
+imap_settings:
+  rambler.ru: imap.rambler.ru
+  hotmail.com: imap-mail.outlook.com
+  outlook.com: imap-mail.outlook.com
+  mail.ru: imap.mail.ru
+  gmail.com: imap.gmail.com
+  googlemail.com: imap.gmail.com
+  gmx.com: imap.gmx.com
+  yahoo.com: imap.mail.yahoo.com
+  gmx.net: imap.gmx.net
+  gmx.de: imap.gmx.net
+  163.com: imap.163.com
+  sinpor.top: imap.sinpor.top
